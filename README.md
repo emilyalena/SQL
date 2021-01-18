@@ -1,3 +1,3 @@
 # SQL
 
-Basic guided SQL projects
+SQL Projects analyzing datasets
